@@ -83,14 +83,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
-
-The application is deployed using Streamlit Cloud.
-
-Live Link: (Add your deployed link here)
-
----
-
 ## 🧪 Example Outputs
 
 | Input                | Output |
